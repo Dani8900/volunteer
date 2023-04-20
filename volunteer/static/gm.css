@@ -1,0 +1,98 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.menu{
+
+ background-image: url(img/f/f2.jpg);
+ background-size:cover;
+background-size:cover;
+background-attachment:fixed;padding:50px ;
+height:600px;
+}
+#nv ul{
+
+list-style-type:none;
+	 
+	display:flex;
+background-color:black;
+padding: 15px;
+}
+nav a{
+	text-decoration:none;
+	font-size:16pt;
+
+}
+.menu a{margin:10px 20px; 
+padding:5px 10px;
+border-radius: 50px;color:#047681;
+ }
+.menu a:hover {border:5px solid #339966;
+ color:#339966 ;
+ background-image: url(img/k/k1.png);}
+.menu ul{
+
+list-style-type:none;
+	 
+ }
+ 
+#b{color:#339966 ;background-size:cover;display:flex;
+flex-direction:column;
+align-items:center;
+
+position:absolute;
+
+}
+ .ft{	position:relative; background-image: url(img/f/f2.jpg);
+ background-size:cover;
+background-size:cover;
+background-attachment:fixed;padding:50px ;}
+ #foto1{
+	position:absolute;
+	top: 100px;
+	left: 850px;
+	transform: rotate(10deg) ;
+	
+	
+} #foto2{
+	position:absolute;
+	top: 100px;
+	left: 550px;
+	transform: rotate(120deg) ;
+	
+	
+} 
+#foto3{
+	position:absolute;
+	top: 100px;
+	left: 420px;
+	transform: rotate(-120deg) ;
+	
+	
+} 
+#foto4{
+	position:absolute;
+	top: 100px;
+	left: 720px;
+	transform: rotate(300deg) ;
+	
+	
+} 
+#foto5{
+	position:absolute;
+	top: 100px;
+	left: 240px;
+	transform: rotate(10deg) ;
+	
+	
+} 
+h1{position:absolute;
+	top: 100px;
+	left: 650px;
+}
+menu{position:relative;}
+#menuаgm{bottom: 0px;position:absolute;   }
+
+
+
+
